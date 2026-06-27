@@ -53,7 +53,7 @@ function Sidebar() {
     <aside className="app-sidebar">
       <div className="sidebar-brand">
         <i className="bi bi-box-seam-fill me-2"></i>
-        InventoryFlow
+        InventoryFlows
       </div>
 
       <nav className="sidebar-nav">
